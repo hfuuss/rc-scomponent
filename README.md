@@ -1,5 +1,36 @@
 
 
+
+# 项目的标题
+rc-scomponent
+# 简略的介绍
+
+# 如何在本地开发运行项目
+1、 git clone git@github.com:hfuuss/rc-scomponent.git   
+2、 npm install   
+3、 npm run lib:dev   
+4、 npm run src:dev  
+
+# 运行 linter
+
+# 运行测试套件
+
+# 如何贡献
+
+# 提交 PR 的步骤
+
+# 如何提 issues
+
+# 代码规范的链接
+
+# 我的规范
+
+# 一份更新日志
+* 2017年8月21日： 将测试环境和组件整合到了一块
+# 开源协议 
+MIT
+
+
 # 从零开始搭建react组件库
 ####　前提：  
 安装了 Node & npm  
@@ -646,24 +677,3 @@ const App = ({ name }) => {
 ```
 
 
-# 项目的标题
-rc-scomponent
-# 简略的介绍
-
-如何在本地运行项目
-
-运行 linter
-
-运行测试套件
-
-如何贡献
-
-提交 PR 的步骤
-
-如何提 issues
-
-# 代码规范的链接
-我的规范
-
-# 一份更新日志
-可以将css和组件库放到一块
