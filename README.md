@@ -13,6 +13,7 @@ react 组件库，与市面上大部分组件最大的不同点就是：
 2、 npm install   
 3、 npm run lib:dev   
 4、 npm run src:dev  
+5、 访问 http://localhost:8080/
 
 # 运行 linter
 
