@@ -9,11 +9,11 @@ react 组件库，与市面上大部分组件最大的不同点就是：
 * 计划基于ant-design设计开发 
 
 # 如何在本地开发运行项目
-1、 git clone git@github.com:hfuuss/rc-scomponent.git   
-2、 npm install   
-3、 npm run lib:dev   
-4、 npm run src:dev  
-5、 访问 http://localhost:8080/
+1、` git clone git@github.com:hfuuss/rc-scomponent.git`    
+2、` npm install`  
+3、` npm run lib:dev`   
+4、` npm run src:dev`  
+5、` 访问 http://localhost:8080/`
 
 # 运行 linter
 
