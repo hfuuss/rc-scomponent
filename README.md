@@ -8,6 +8,7 @@ react 组件库，与市面上大部分组件最大的不同点就是：
 * 样式组件化
 * 计划基于ant-design设计开发 
 
+
 # 如何在本地开发运行项目
 1、` git clone git@github.com:hfuuss/rc-scomponent.git`    
 2、` npm install`  
@@ -31,6 +32,7 @@ react 组件库，与市面上大部分组件最大的不同点就是：
 
 # 一份更新日志
 * 2017年8月21日： 将测试环境和组件整合到了一块
+* 2017年8月24日：查看bisheng使用方法，结合ant-design工程文档进行整理。这样方便展示页面效果。
 
 # 开源协议 
 MIT
