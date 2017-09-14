@@ -52,7 +52,6 @@
     "lib:lint": "eslint lib/**; exit 0",
     "lib:lint:watch": "esw -w lib/**",
     "lib:prepublish": "npm run build",
-    "lib:dev": "lib:build:watch",
     "src:build": "webpack --config webpack.prod.config.js",
     "src:dev": "webpack-dev-server --hot --inline",
     "src:lint": "eslint src/**",
